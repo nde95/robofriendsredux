@@ -1,1 +1,1 @@
-# robofriendsredux
+adding redux to old react app to promote better scalability
